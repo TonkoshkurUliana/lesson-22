@@ -1,5 +1,4 @@
-public  class Cat extends Pet {
-        void voice() {
-                System.out.println("Я кіт- Мяууу-Мяууу");
+public  class Cat {
+        Pet pt = () ->  System.out.println("Я кіт- Мяууу-Мяууу");
         }
-}
+

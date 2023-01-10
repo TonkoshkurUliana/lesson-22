@@ -1,3 +1,3 @@
-public abstract class Pet {
-    abstract void voice();
+interface Pet {
+     void voice();
 }
